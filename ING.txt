@@ -1,0 +1,115 @@
+CLASE 1 
+
+Que es el softwere? 
+Caracteristicas
+Tipos de productos de softwere
+Que es la ingenieria de softwere
+Requerimientos
+Fuentes de requirimientos 
+Stakeholders 
+Puntos de vista
+Caracteristicas de los requerimientos
+Elicitacion de requerimientos
+Tecnicas de elicitacion
+	Metodos discretos
+		Documentacion
+		Visitas al lugar
+		Observacion del ambiente
+
+	Metodos interactivos
+		Entrevistas
+		Cuestionarios
+		Planeacion conjunta de R.
+		Brainstorming
+	
+
+CLASE 2
+
+Requerimientos funcionales
+Requerimientos no funcionales
+Ingenieria de requerimientos
+	Viabilidad
+	Obtencion y analisis de requerimientos
+	Especificacion requerimientos
+			Estaticas 
+				Referencia indirecta
+				Relaciones de recurrencia
+				Definicion axiomatica
+				Expresiones regulares
+				Abstracciones de datos
+		
+			Dinamicas
+				HU
+				CU
+				DTE
+				Redes de petri
+				TD
+
+	Validacion de requerimientos
+	Gestion de requerimientos
+	
+Importancia
+
+
+CLASE 3
+
+Casos de Uso 
+
+CLASE 4 
+
+Diagrama de transicion de estados
+
+CLASE 5
+
+Redes de petri
+
+CLASE 6
+
+Tablas de decision 
+Analisis estructurado
+Diagrama de flujo de datos
+
+CLASE 7 
+
+Que es un proceso de softwere?
+Pasos 
+	Especificacion del softwere
+	Desarrollo del softwere
+	Validacion del softwere
+	Evolucion del softwere
+
+Que es un modelo de proceso de softwere? 
+Tipos de modelos
+	Prescriptivos
+	Descriptivos
+	Tradicional 
+		Cascada
+		Prototivos
+			Evolutivo
+			Descartables
+	Evolutivos
+		Desarrollo por fases
+			Incremental
+			Iterativo
+		Espiral (Boehm) 
+
+CLASE 8
+
+Metodologias agiles
+Objetivos
+Extreme programming 
+SCRUM
+Kanban
+Desarrollo de softwere basado en modelos (MDD) 
+			Que es? 
+			Puntos clave
+
+CLASE 9
+
+Calidad 
+	Definicion
+
+Calidad de softwere
+Reglas ISO
+CMMI
+
